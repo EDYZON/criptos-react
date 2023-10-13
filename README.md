@@ -1,8 +1,4 @@
-# React + Vite
+#Nombre del proyecto Criptos-React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+#Clase 135-1 Creando el Proyecto y realizando algunos ajustes
+-En esta clase se prepara el proyecto en la importación de las imagenes del proyecto, la importación de google fonts para su posterior uso
