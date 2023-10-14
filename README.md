@@ -11,3 +11,6 @@ En esta clase se añadieron modificaciones  alos styled components existentes y 
 
 #Clase 138.- Creando el input del formulario
 En esta clase se creo un nuevo compononente boton al cual se le añadio stiled component, posteriormente se hizo la importación en el componente app.
+
+#Clase 139.- Primeros pasos para crear un custom hook
+En esta clase se creo un costom hook(useSelectMonedas) para poder utilizarlo en el componente formulario.
