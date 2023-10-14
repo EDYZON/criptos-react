@@ -8,3 +8,6 @@
 
 #Clase 137.- Escribiendo el css de nuestro proyecto con Styled Components
 En esta clase se añadieron modificaciones  alos styled components existentes y adecuaciones para centrar y encapsular los componentes principales de la app.
+
+#Clase 138.- Creando el input del formulario
+En esta clase se creo un nuevo compononente boton al cual se le añadio stiled component, posteriormente se hizo la importación en el componente app.
