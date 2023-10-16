@@ -14,3 +14,6 @@ En esta clase se creo un nuevo compononente boton al cual se le añadio stiled c
 
 #Clase 139.- Primeros pasos para crear un custom hook
 En esta clase se creo un costom hook(useSelectMonedas) para poder utilizarlo en el componente formulario.
+
+#Clase 140.- Utilizando nuestro nuevo Hook
+En esta clase empezamos a utilizar el hook creado previamente, se le añadio styled components y se hizo uso de este en el componente Formulario.
