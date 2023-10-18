@@ -23,3 +23,6 @@ En esta clase se creo un array de valores para el hook useSelect Monedas, se le 
 
 #Clase 142.- Styled components al Select
 En esta clase se personaliza el select de monedas convirtiendolo en styled components y añadiendo mejoras visuales al botón submit.
+
+#Clase 143.- Añadiendo State y retornando el Valor.
+En esta clase a traves del hook use state se añadio un estado que se actualiza cada vez que se selecciona una opción pasandolo al componente Formulario.
