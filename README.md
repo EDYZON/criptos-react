@@ -20,3 +20,6 @@ En esta clase empezamos a utilizar el hook creado previamente, se le añadio sty
 
 #Clase 141.- Pasando Opciones al Hook
 En esta clase se creo un array de valores para el hook useSelect Monedas, se le paso a traves de props y se desplego haciendo uso del metodo map.
+
+#Clase 142.- Styled components al Select
+En esta clase se personaliza el select de monedas convirtiendolo en styled components y añadiendo mejoras visuales al botón submit.
