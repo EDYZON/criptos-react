@@ -17,3 +17,6 @@ En esta clase se creo un costom hook(useSelectMonedas) para poder utilizarlo en 
 
 #Clase 140.- Utilizando nuestro nuevo Hook
 En esta clase empezamos a utilizar el hook creado previamente, se le añadio styled components y se hizo uso de este en el componente Formulario.
+
+#Clase 141.- Pasando Opciones al Hook
+En esta clase se creo un array de valores para el hook useSelect Monedas, se le paso a traves de props y se desplego haciendo uso del metodo map.
