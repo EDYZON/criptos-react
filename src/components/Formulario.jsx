@@ -28,7 +28,7 @@ const Formulario = () => {
      {id: 'GBP', nombre: 'Libra Esterlina'},
   ];*/
   const [criptos,setCriptos] =  useState([])
-  const [moneda , SelectMonedas] = useSelectMonedas('Elige tu Moneda',monedas)
+  const [criptomoneda , SelectCriptomoneda] = useSelectMonedas('Elige tu CriptoMoneda',criptos)
  // const [SelectCriptomonedas] = useSelectMonedas('Elige tu criptomoneda')
  useEffect(()=>{
     const consultarAPI = async () =>{
@@ -54,9 +54,10 @@ const Formulario = () => {
         <form>
            estado:{moneda}
             <SelectMonedas/>
+            <SelectCriptomoneda/>
             <InputSubmit 
-            type="submit" value="Cotizar"
-             />
+             type="submit" value="Cotizar"
+            />
         </form>
     </div>
   )

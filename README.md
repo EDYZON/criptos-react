@@ -32,3 +32,6 @@ En esta clase se realiza la importación del hook useEffect para realizar una pe
 
 #Clase 145.- Formateando un array para pasarlo como opciones.
 En esta clase se procesala información json proveniente del API, se extraen los valores necesarios mediante sus indices y se forma un nuevo objeto que contiene solo las variables que consume la aplicación.
+
+#146.- Añadiendo varios Select con Opciones
+En esta clase se realizo una instancia del customhook useSelectMonedas para pasarle el array de datos de criptomonedas provenientes del API, posteriormente se pinto en pantalla.
