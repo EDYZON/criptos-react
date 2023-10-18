@@ -26,3 +26,6 @@ En esta clase se personaliza el select de monedas convirtiendolo en styled compo
 
 #Clase 143.- Añadiendo State y retornando el Valor.
 En esta clase a traves del hook use state se añadio un estado que se actualiza cada vez que se selecciona una opción pasandolo al componente Formulario.
+
+#Clase 144.- Consultando un API.
+En esta clase se realiza la importación del hook useEffect para realizar una petición a un endpoint API de criptomonedas, se procesa los resultados usando una función asincrona y se despliega el resultado en consola.
