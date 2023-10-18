@@ -29,3 +29,6 @@ En esta clase a traves del hook use state se añadio un estado que se actualiza 
 
 #Clase 144.- Consultando un API.
 En esta clase se realiza la importación del hook useEffect para realizar una petición a un endpoint API de criptomonedas, se procesa los resultados usando una función asincrona y se despliega el resultado en consola.
+
+#Clase 145.- Formateando un array para pasarlo como opciones.
+En esta clase se procesala información json proveniente del API, se extraen los valores necesarios mediante sus indices y se forma un nuevo objeto que contiene solo las variables que consume la aplicación.
