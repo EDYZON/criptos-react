@@ -35,3 +35,6 @@ En esta clase se procesala información json proveniente del API, se extraen los
 
 #146.- Añadiendo varios Select con Opciones
 En esta clase se realizo una instancia del customhook useSelectMonedas para pasarle el array de datos de criptomonedas provenientes del API, posteriormente se pinto en pantalla.
+
+#147.- Validando el fomulario
+En esta clase se añadio una validación que se dispara cuando la moneda y criptomonedas no haya sido seleccionada, el mensaje de error se formateo usando styles components y el mensaje de error se inserto en un componente por separado.
