@@ -38,3 +38,6 @@ En esta clase se realizo una instancia del customhook useSelectMonedas para pasa
 
 #147.- Validando el fomulario
 En esta clase se añadio una validación que se dispara cuando la moneda y criptomonedas no haya sido seleccionada, el mensaje de error se formateo usando styles components y el mensaje de error se inserto en un componente por separado.
+
+#Clase 148.- Detectando los valores de las monedas
+En esta clase se realizo una refinación de la validación de campos, se hizo del hook useEffect

@@ -21,7 +21,7 @@ const InputSubmit = styled.input`
     cursor: pointer;
  }
 `
-const Formulario = () => {
+const Formulario = ({setMonedas}) => {
   /*const monedas = [
      {id: 'USD', nombre: 'Dolar de Estados Unidos'},
      {id: 'MXN', nombre: 'Peso Mexicano'},
