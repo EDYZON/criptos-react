@@ -41,3 +41,6 @@ En esta clase se añadio una validación que se dispara cuando la moneda y cript
 
 #Clase 148.- Detectando los valores de las monedas
 En esta clase se realizo una refinación de la validación de campos, se hizo del hook useEffect
+
+#Clase 149.- Consultando en la API las monedas a cotizar
+En esta clase se programo la consulta dinamica al api de monedas pasandole parametros, posteriormente leyendo el resultado, recorriendolo para luego guardarlos en estados usando useState.
