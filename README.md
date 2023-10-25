@@ -50,3 +50,6 @@ En esta clase, se formateo el resultado proveniente del API, creando un componen
 
 #Clase 151.- Formateando el resultado.
 En esta clase se aplican estilos al componente resultados, los selectores html se transformaron a styled components, se aplicaron margenes y paddings entre los diferentes  selectores html que integran el resultado final.
+
+#Clase 152.- Añadiendo un Spinner
+Esta es la clase final de este proyecto, se añadio un spiner, para ello se creo un nuevo componente llamado spiner, se le cargaron stylos css y se hizo la importación en el componente principal, su principal función es mostrar al usuario que una tarea se esta procesando y desaparece en cuanto el resultado es mostrado en pantalla.
