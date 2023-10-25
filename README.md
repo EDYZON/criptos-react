@@ -47,3 +47,6 @@ En esta clase se programo la consulta dinamica al api de monedas pasandole param
 
 #Clase 150.- Mostrando el Resultado
 En esta clase, se formateo el resultado proveniente del API, creando un componente llamado resultado, posteriormente importandolo en App que permite visualizar los resultados.
+
+#Clase 151.- Formateando el resultado.
+En esta clase se aplican estilos al componente resultados, los selectores html se transformaron a styled components, se aplicaron margenes y paddings entre los diferentes  selectores html que integran el resultado final.
