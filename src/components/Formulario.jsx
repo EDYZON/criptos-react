@@ -59,6 +59,14 @@ const Formulario = ({setMonedas}) => {
       return
    }
    setError(false)
+   setMonedas({
+    moneda,
+    criptomoneda
+   })
+   setMonedas({
+    moneda,
+    criptomoneda
+   })
  }
 
   return (
@@ -70,7 +78,8 @@ const Formulario = ({setMonedas}) => {
             <SelectMonedas/>
             <SelectCriptomoneda/>
             <InputSubmit 
-             type="submit" value="Cotizar"
+             type="submit" 
+             value="Cotizar"
             />
         </form>
     </>

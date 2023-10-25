@@ -44,3 +44,6 @@ En esta clase se realizo una refinación de la validación de campos, se hizo de
 
 #Clase 149.- Consultando en la API las monedas a cotizar
 En esta clase se programo la consulta dinamica al api de monedas pasandole parametros, posteriormente leyendo el resultado, recorriendolo para luego guardarlos en estados usando useState.
+
+#Clase 150.- Mostrando el Resultado
+En esta clase, se formateo el resultado proveniente del API, creando un componente llamado resultado, posteriormente importandolo en App que permite visualizar los resultados.
